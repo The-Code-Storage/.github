@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**This space is for playing with Programming :**
+**This space is for playing with Programming:**
 
 🙋‍♀️ A short introduction - `BeerPedia` 라는 맥주를 검색하고 평가/공유할 수 있는 서비스를 만들기 위한 사이드 프로젝트 조직입니다.
 
